@@ -1,0 +1,19 @@
+[8268:26800:1111/213450.024:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8268:37708:1111/213450.194:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8268:26800:1111/213450.238:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8268:19896:1111/213456.478:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8268:19896:1111/213456.482:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8268:19896:1111/213456.484:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8268:19896:1111/213456.486:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8268:19184:1111/213500.234:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8268:19184:1111/213500.236:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[38420:29756:1111/213500.820:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B099F5E1241258B1288ABA55F0EC8B2A will be ignored
+[40824:20148:1111/213501.618:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[40824:20148:1111/213501.651:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[40824:20148:1111/213501.804:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[40824:20148:1111/213501.835:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[40824:20148:1111/213510.814:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[40824:20148:1111/213512.237:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[40824:20148:1111/213520.817:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[40824:20148:1111/213524.810:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8268:26800:1111/214228.140:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
