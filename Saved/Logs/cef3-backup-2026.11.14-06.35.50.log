@@ -1,0 +1,23 @@
+[2960:15188:1114/003339.615:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2960:15188:1114/003339.793:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[2960:23052:1114/003339.882:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[2960:15188:1114/003339.969:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[38840:17708:1114/003343.155:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-241E15CB52769010E3CBE153C15FEDB4 will be ignored
+[32064:34000:1114/003343.692:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32064:34044:1114/003343.730:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32064:34044:1114/003343.731:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32064:34044:1114/003343.731:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2960:19996:1114/003343.910:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[2960:15188:1114/003344.000:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[2960:15188:1114/003344.000:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[2960:15188:1114/003344.000:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[2960:15188:1114/003344.000:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[2960:19996:1114/003344.003:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[18648:29468:1114/003344.130:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18648:12316:1114/003344.173:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18648:12316:1114/003344.173:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18648:12316:1114/003344.174:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18648:29468:1114/003344.913:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2960:15188:1114/003346.412:ERROR:device_event_log_impl.cc(196)] [00:33:46.407] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19032:16760:1114/003550.733:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19032:16760:1114/003550.733:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.

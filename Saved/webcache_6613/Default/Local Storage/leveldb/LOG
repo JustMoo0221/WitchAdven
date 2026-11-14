@@ -1,2 +1,3 @@
-2026/11/12-11:09:21.244 181c Creating DB C:\Users\VIDAO NAILS\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/11/12-11:09:21.263 181c Reusing MANIFEST C:\Users\VIDAO NAILS\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/14-01:25:25.619 87ec Reusing MANIFEST C:\Users\finnn\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/14-01:25:25.622 87ec Recovering log #3
+2026/11/14-01:25:25.624 87ec Reusing old log C:\Users\finnn\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
