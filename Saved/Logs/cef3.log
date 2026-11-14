@@ -1,14 +1,35 @@
-[24340:15912:1112/110921.016:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24340:15912:1112/110921.032:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[24340:15912:1112/110921.082:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[24340:18456:1112/110929.637:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\VIDAO NAILS\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\VIDAO NAILS\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24340:18456:1112/110929.641:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\VIDAO NAILS\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\VIDAO NAILS\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24340:18456:1112/110929.644:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\VIDAO NAILS\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\VIDAO NAILS\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24340:18456:1112/110929.646:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\VIDAO NAILS\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\VIDAO NAILS\Documents\Unreal Projects\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24340:16828:1112/110930.365:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24340:16828:1112/110930.377:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21892:14188:1112/110932.999:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-409DF5E6B62D4DCD029DF9DA7A1A451E will be ignored
-[24340:15912:1112/111512.441:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24340:15912:1112/111647.982:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24340:15912:1112/134154.197:ERROR:device_event_log_impl.cc(196)] [13:41:54.128] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[24340:15912:1112/135235.388:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[56124:48292:1114/003926.341:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[56124:48292:1114/003926.820:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[56124:48292:1114/003927.339:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[56124:49252:1114/003927.590:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[56124:37736:1114/003939.250:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[56124:37736:1114/003939.261:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[56124:37736:1114/003939.264:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[56124:37736:1114/003939.270:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[56124:52764:1114/003940.164:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[56124:52764:1114/003940.177:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[35684:21960:1114/003940.397:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D113ED355D3A66965343F2E9404CC0F0 will be ignored
+[45328:30936:1114/003942.127:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[45328:37168:1114/003942.223:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[45328:37168:1114/003942.223:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[45328:37168:1114/003942.226:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[56124:47568:1114/003942.544:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[56124:48292:1114/003942.601:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[56124:48292:1114/003942.601:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[56124:48292:1114/003942.601:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[56124:48292:1114/003942.601:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[56124:47568:1114/003942.657:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[48876:5336:1114/003942.918:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[48876:45912:1114/003943.006:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[48876:45912:1114/003943.006:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[48876:45912:1114/003943.007:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[51448:52720:1114/003943.047:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[51448:52720:1114/003943.081:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[48876:5336:1114/003945.541:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[56124:37736:1114/003947.408:ERROR:sandbox_directory_database.cc(915)] SandboxDirectoryDatabase failed at: Init@storage\browser\file_system\sandbox_directory_database.cc:715 with error: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[56124:37736:1114/003947.408:WARNING:sandbox_directory_database.cc(727)] Corrupted SandboxDirectoryDatabase detected. Attempting to repair.
+[51448:52720:1114/003955.422:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[51448:52720:1114/004004.743:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[45328:16952:1114/004153.376:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-C0984F4E86E2F862767972032F0F188A will be ignored
+[43836:34060:1114/004154.014:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[56124:48292:1114/005011.498:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
