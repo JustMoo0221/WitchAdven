@@ -1,4 +1,7 @@
-2026/11/14-00:39:47.411 9368 Log #3: 0 ops saved to Table #4 OK
-2026/11/14-00:39:47.412 9368 Archiving C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/000003.log: OK
-2026/11/14-00:39:47.413 9368 Archiving C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: OK
-2026/11/14-00:39:47.423 9368 **** Repaired leveldb C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2026/11/14-02:33:50.358 abb8 Reusing MANIFEST C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001
+2026/11/14-02:33:50.358 abb8 Recovering log #3
+2026/11/14-02:33:50.359 abb8 Level-0 table #6: started
+2026/11/14-02:33:50.368 abb8 Level-0 table #6: 275 bytes OK
+2026/11/14-02:33:50.368 abb8 Recovering log #6
+2026/11/14-02:33:50.369 abb8 Reusing old log C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/000006.log 
+2026/11/14-02:33:50.371 abb8 Delete type=0 #3

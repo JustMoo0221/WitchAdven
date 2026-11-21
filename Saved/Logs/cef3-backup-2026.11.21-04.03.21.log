@@ -1,0 +1,20 @@
+[24720:36292:1120/200250.225:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24720:22812:1120/200250.577:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24720:36292:1120/200250.682:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24720:42296:1120/200258.356:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24720:42296:1120/200258.361:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24720:42296:1120/200258.362:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24720:42296:1120/200258.364:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\alema\Documents\github\Tower of the Lych\WitchAdven\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24720:42296:1120/200301.691:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24720:42296:1120/200301.694:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19300:22780:1120/200303.024:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8D9A6F115851AFC07D790D1444251716 will be ignored
+[42900:19376:1120/200304.369:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[42900:19376:1120/200305.354:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[42900:19376:1120/200313.686:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[42900:19376:1120/200323.448:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[24720:2092:1120/204148.169:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000321C000F6D40}, {new_limit=27})
+[24720:2092:1120/204149.173:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000321C000F6D40}, {new_limit=26})
+[24720:2092:1120/204200.166:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000321C000F6D40}, {new_limit=27})
+[24720:2092:1120/204201.166:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000321C000F6D40}, {new_limit=26})
+[24720:2092:1120/204206.169:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000321C000F6D40}, {new_limit=25})
+[24720:2092:1120/204223.173:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000321C000F6D40}, {new_limit=26})
