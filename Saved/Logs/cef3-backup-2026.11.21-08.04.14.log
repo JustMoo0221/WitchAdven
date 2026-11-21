@@ -1,0 +1,6 @@
+[43924:39676:1121/020412.334:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[43924:46848:1121/020412.385:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[43924:39676:1121/020412.410:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[43924:39676:1121/020414.127:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser
+[48452:50632:1121/020414.496:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-016D4078B9C38A3DDDDBA3DC2C6A84AF will be ignored
+[51820:15228:1121/020414.934:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.

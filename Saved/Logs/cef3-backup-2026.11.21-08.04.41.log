@@ -1,0 +1,22 @@
+[18520:19792:1121/020422.711:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18520:35596:1121/020422.777:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18520:19792:1121/020422.784:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[29328:36692:1121/020426.007:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D32130344A7BEB8A2AC63D4F27426750 will be ignored
+[38440:10272:1121/020426.308:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[38440:10680:1121/020426.329:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[38440:10680:1121/020426.330:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[38440:10680:1121/020426.331:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18520:9832:1121/020426.514:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[18520:19792:1121/020426.595:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[18520:19792:1121/020426.595:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[18520:19792:1121/020426.595:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[18520:19792:1121/020426.595:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[18520:9832:1121/020426.598:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[29416:25876:1121/020426.727:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29416:28196:1121/020426.801:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29416:28196:1121/020426.801:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29416:28196:1121/020426.801:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18520:35596:1121/020427.767:WARNING:obfuscated_file_util.cc(1236)] A stray file detected
+[29416:25876:1121/020428.760:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18520:19792:1121/020429.048:ERROR:device_event_log_impl.cc(196)] [02:04:29.040] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18520:19792:1121/020441.330:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
